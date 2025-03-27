@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá, me chamo Vinicius Werneck, tenho 24 anos e sou do Rio de Janeiro.
-Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense - UFF e também um curso de Desenvolvimento Fullstack na Rocketseat. Apaixonado por desenvolvimento, estou em busca do meu primeiro emprego na área. Você pode me conhecer melhor através do meu [LinkedIn](https://www.linkedin.com/in/v-werneck/), ou pelo [Instagram](https://www.instagram.com/wern7ck/).
+Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense - UFF e também um curso de Desenvolvimento Fullstack na Rocketseat. Apaixonado por desenvolvimento, estou em busca do meu primeiro emprego na área. Você pode me conhecer melhor através do meu [LinkedIn](https://www.linkedin.com/in/v-werneck).
 
 ---
 
