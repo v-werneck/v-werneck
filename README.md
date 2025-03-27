@@ -74,6 +74,9 @@ Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidad
 <br/>
 
 ### 📊 Estatísticas
+
+<p>
+
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -88,3 +91,5 @@ Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidad
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-werneck&theme=merko&include_all_commits=true&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+</p>
