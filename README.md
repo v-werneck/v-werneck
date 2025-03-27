@@ -69,18 +69,15 @@ Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidad
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
-
 ### 📊 Estatísticas
 
 <p>
-
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=v-werneck&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
 />
@@ -91,5 +88,4 @@ Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidad
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-werneck&theme=merko&include_all_commits=true&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
-
 </p>
